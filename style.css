@@ -4,11 +4,25 @@
     box-sizing: border-box;
 
 }
-h1 {
+.prac {
     color: rgb(136, 7, 7);
     font-style: italic;
     font-size: large;
 }
+.moringa {
+    color: rgb(11, 139, 97);
+    background-color: rgb(150, 150, 185);
+}
 h2 {
     font-size: 16px;
+    font-style: italic;
+    text-align: center;
+    color: blue;
+}
+.tutorial {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+body {
+    background-color: rgb(86, 86, 150);
 }
