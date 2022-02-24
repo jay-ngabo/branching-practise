@@ -4,6 +4,9 @@
     box-sizing: border-box;
 
 }
+body {
+    background-color: rgb(95, 88, 88);
+}
 .prac {
     color: rgb(136, 7, 7);
     font-style: italic;
@@ -17,7 +20,7 @@ h2 {
     font-size: 16px;
     font-style: italic;
     text-align: center;
-    color: blue;
+    color: blueviolet;
 }
 .tutorial {
     font-family: 'Times New Roman', Times, serif;
@@ -25,4 +28,14 @@ h2 {
 }
 body {
     background-color: rgb(86, 86, 150);
+}
+.p2 {
+    font-family: sans-serif;
+    font-size: medium;
+    color: brown;
+}
+.subtopic {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(4, 78, 53);
 }
